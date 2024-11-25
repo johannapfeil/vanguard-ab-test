@@ -1,0 +1,5 @@
+,from_step,to_step,avg_time_spent
+0,start,step_1,0 days 00:00:31.081051905
+1,step_1,step_2,0 days 00:00:41.677151055
+2,step_2,step_3,0 days 00:01:28.609721820
+3,step_3,confirm,0 days 00:01:50.920850367
